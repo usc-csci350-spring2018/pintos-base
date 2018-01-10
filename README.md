@@ -13,7 +13,7 @@ Email: ttrojan@usc.edu
 
 ID: 1234567890
 
-##Project Organization
+## Project Organization
 Please make sure you organize your repository in the following manner:
 
 <strong>Project directores</strong> For each project you need to create a new directory. Make sure they're named "proj\<number\>". For example "proj1".
